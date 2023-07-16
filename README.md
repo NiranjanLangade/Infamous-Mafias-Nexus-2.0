@@ -18,7 +18,7 @@ To deploy this project
 3) Paste this path in your desired web browser.
 4) The website is hosted on following link : 
 ```bash
-  #
+  https://main--sage-tarsier-226b3f.netlify.app/
 ```
 
 
